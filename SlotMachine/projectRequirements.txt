@@ -1,0 +1,12 @@
+ 1. how much money user deposits means : deposit ammount
+ 2. determine the number of lines  to bet on  
+ 3. betting ammount : collect a bet met 
+ 4 . spin the slot machine 
+ 5 . check if the user won 
+ 6. give the user the winnings if won 
+ 7. play again 
+
+ create a function to get user deposit 
+
+ function to enter the number of lines 
+ 
